@@ -10,7 +10,6 @@
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
-    "purpose": "maskable any",
     "density": "0.75"
   }, {
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-48x48.png",
@@ -40,7 +39,6 @@
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
-    "purpose": "any maskable",
     "density": "4.0"
   }, {
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-512x512.png",
