@@ -7,43 +7,43 @@
   "theme_color": "#f5f6f7",
   "description": "Media Online yang Membangun inspirasi dan informasi yang disajikan sebagai landasan informasi yang Teraktual dan Terpercaya",
   "icons": [{
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-144x144.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4TlrpSHlDysSVGH3UYSJaLoM53UASL2vXzlyeHJD6OTI1gGuasOru8FxNDvtcQbGauY20DigLJoO_qcT1ZUTMPiKP9TeNN0qvzt8y0CrttJie9Z92bWgXpRYkl3BD19VhUPBHyC4a0vPhXuNg-Ruyg6_iX3gkPLPGMDdZ_S0kJMVK32baYgEtwwTaig/s1600-rw/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "purpose": "any",
     "density": "0.75"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-48x48.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn12IDL52TT9PZs03-AV8GDxENBJOjdEuPR0bac4DBsbuWCbCvqD4ROX7brnr7MZVyFHRsvUGrkdWAjEYf_MmxFC41nbFXdpebW1yO_rjcBsy68Gr4yRHm76fRXVztdyjesnTlHfItsbHJKtM6rlXpNX93HprMGuYhGYK8ZQEhpxnV4bX4UGo3GV31Lc/s1600-rw/icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png",
     "purpose": "any maskable",
     "density": "1.0"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-72x72.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2XhpElnaDnOUZcHzQLXN35Ku4krtDTWgvtFFVFKQoGFf_fVjZebv1AZHajWcXXXpkpvFsyj2JE4lTsnY5djDafnxYYoPbKopVF7kOUKnAXNL7uBZ6qBxFw1KGBthakPm_vPlnDWTp4AtZvKIpv7L0Dh-6H5Fskvai6VGh9iap2SIudyd1HvTLZN8YMo/s1600-rw/icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "purpose": "any maskable",
     "density": "1.5"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-96x96.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirOj4c6STiFb3SlwDflDfp_fF5PsSD9sQ00sL7QBX5SXMct09lzAaGAGWmE8s5q7el_JYIpOsyynW72SWzJuc2z_ewswabF0pMHaP2uk8no5fy_1Y-Pgcn8F6Oz4jFBW1_Wmgfus5j7MiDSLpgjuVwDfoIkvukGCNYUZtQFP0BhoFD8mOb03UNe2HAw-Q/s1600-rw/icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png",
     "purpose": "any maskable",
     "density": "2.0"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-128x128.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFF62vd88mSf-CUGrCz3kLcVf-NanWNR6a-C2GZy1uLO2ZC8bU4a41FkkMyZKLi1lxGrr1EiJ__Ti9iKgrkmSnWKDlA0QTw6rlig1Pi_r3P-ioFDGHVQJOJR0DkhXbGEpgAV8-fDz1PCsRhZB1hS3spcTfr17MR1ApeObZ62IjvF2ecWhAiCGrdUof8Bc/s1600-rw/icon-128x128.png",
     "sizes": "128x128",
     "type": "image/png",
     "purpose": "any maskable",
     "density": "3.0"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-144x144.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4TlrpSHlDysSVGH3UYSJaLoM53UASL2vXzlyeHJD6OTI1gGuasOru8FxNDvtcQbGauY20DigLJoO_qcT1ZUTMPiKP9TeNN0qvzt8y0CrttJie9Z92bWgXpRYkl3BD19VhUPBHyC4a0vPhXuNg-Ruyg6_iX3gkPLPGMDdZ_S0kJMVK32baYgEtwwTaig/s1600-rw/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "purpose": "any",
     "density": "4.0"
   }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-512x512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho7tCwYyP1h0HvGf5n7TS-tvnHARqtxVYNlHEiyjnhVZDC5gqu9BvNLb0P_t1jwn-YUwVqVU30ICy9-U1AkifOR2R45FbthKRPHUAAB_4PnIkRiMQ8fFo6BUs4JaY73qmAzXGMB4VLLozKgEK5K_UWq0YzrMl0SgbqO9FZIzEcLYdutKUzMwTI2Fr58R8/s512/icon-512x512.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
