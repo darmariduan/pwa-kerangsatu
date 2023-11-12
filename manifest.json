@@ -1,6 +1,6 @@
 {
   "name": "KerangSatu.com",
-  "short_name": "KerangSatu",
+  "short_name": "K1",
   "start_url": "https://www.kerangsatu.com",
   "display": "standalone",
    "background_color": "#f5f6f7",
@@ -37,7 +37,7 @@
     "purpose": "any maskable",
     "density": "3.0"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhiLm8lNnSOQ31c-aStz5gbKSW6BZkEJyPOAKL_Qezb-GnxuKYKPSipSlzDj48uRxrntuzEx_zUgRyWm2p4Cq9L0k2Jmh5xSJqLcBucytdQSEvWnBzsX-S-AzQfWZ-V7ogdr372gxuv6jWLD0TryGsVkeSDQ5xjduhwfcHwsy329ad2aRhxyiKCu9SSAIg=s320",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4TlrpSHlDysSVGH3UYSJaLoM53UASL2vXzlyeHJD6OTI1gGuasOru8FxNDvtcQbGauY20DigLJoO_qcT1ZUTMPiKP9TeNN0qvzt8y0CrttJie9Z92bWgXpRYkl3BD19VhUPBHyC4a0vPhXuNg-Ruyg6_iX3gkPLPGMDdZ_S0kJMVK32baYgEtwwTaig/s1600-rw/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "purpose": "any",
