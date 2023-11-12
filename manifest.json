@@ -10,7 +10,7 @@
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
-    "purpose": "any maskable",
+    "purpose": "maskable any",
     "density": "0.75"
   }, {
     "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-48x48.png",
