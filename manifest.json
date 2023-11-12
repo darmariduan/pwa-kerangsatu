@@ -42,11 +42,6 @@
     "type": "image/png",
     "purpose": "any maskable",
     "density": "4.0"
-  }, {
-    "src": "https://github.com/darmariduan/pwa-kerangsatu/blob/main/assets/icons/icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable",
-    "density": "5.0"
-  }]
+  }
+]
 }
